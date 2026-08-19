@@ -134,6 +134,3 @@ separate branch if that direction gets picked back up.
   — harmless to correctness, a minor and accepted performance cost.
 - Base station placement is currently specified manually at launch, not optimized.
 
-## License
-
-Not yet decided — check with your institution's IP policy before choosing one.
