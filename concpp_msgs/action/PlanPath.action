@@ -1,0 +1,10 @@
+# Goal — this is M_req
+concpp_msgs/RobotState state
+concpp_msgs/LocalView local_view
+---
+# Result — this is M_res
+bool active
+nav_msgs/Path path
+uint64 t_start
+---
+# Feedback — unused, but action interfaces require the section

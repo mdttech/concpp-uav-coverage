@@ -1,0 +1,9 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# ament_python build artifacts that land inside source folders
+*.egg-info/
+
+# Editor settings (remove this line if you want to share VS Code config)
+.vscode/

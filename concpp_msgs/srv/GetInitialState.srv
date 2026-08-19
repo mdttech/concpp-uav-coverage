@@ -1,0 +1,4 @@
+uint32 robot_id
+---
+bool success
+concpp_msgs/RobotState state

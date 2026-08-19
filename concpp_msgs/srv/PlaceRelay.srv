@@ -1,0 +1,5 @@
+uint32 relay_id
+int32 x
+int32 y
+---
+bool success
